@@ -10,5 +10,5 @@ To install dependencies, use [pip](https://pypi.org/project/pip/).
 - *Latisha Talayumptewa* (Recorder)
 - Blase Gornick
 - Jeremiah Lopez
-- Brian Dorame
+- Brian Dorame (presenter)
 - Alyssa Sombrero
